@@ -1,0 +1,5 @@
+{"timestamp": "2022-02-16T18:29:43.192Z", "Field8": null, "Field5": 2.44, "Field3": {"f1": { "f5": null}}}
+{"timestamp": "2022-02-16T18:29:43.192Z", "Field2": 1, "Field4": "dummy", "Field7": {"f2": { "f8": 3.56}}}
+{"timestamp": "2022-02-16T18:29:43.192Z", "Field1": true, "Field6": false, "Field8": {"f4": { "f3": 2.44}}}
+{"timestamp": "2022-02-16T18:29:43.192Z", "Field3": null, "Field5": "dummy", "Field7": {"f6": { "f7": false}}}
+{"timestamp": "2022-02-16T18:29:43.192Z", "Field4": true, "Field1": 0,  "Field3": {"f1": { "f5": 1}}}
