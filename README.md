@@ -1,7 +1,7 @@
 # Nodejs_fs
 
 Goal
-The goal of this project is to be able to convert huge JSON-based log files into columnar files. Performance is of the utmost importance, and in the future, we may want to use this tool to accept streaming logs and write them to columnar files. What this implies is that the conversion to columnar files should be performed in single pass.
+The goal of this project is to be able to convert huge JSON-based log files into columnar files. The conversion to columnar files should be performed in single pass.
 The size of JSON log file will range between 4GB to 48GB (sample log files of different sizes).
 
 ----------------------------------------------------------------------------------------------------------------------------------
