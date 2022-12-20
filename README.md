@@ -1,6 +1,6 @@
 # Nodejs_fs
 
-Goal
+Goal : 
 The goal of this project is to be able to convert huge JSON-based log files into columnar files. The conversion to columnar files should be performed in single pass.
 The size of JSON log file will range between 4GB to 48GB (sample log files of different sizes).
 
